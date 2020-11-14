@@ -1,0 +1,4 @@
+0 Handy
+1 Schuh
+2 Buch
+3 Schrank
